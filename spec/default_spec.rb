@@ -11,6 +11,7 @@ platform_test_matrix = {
     '14.10' => 'utopic',
     '15.04' => 'vivid',
     '15.10' => 'wily'
+    '16.04' => 'xenial'
   }
 }
 
